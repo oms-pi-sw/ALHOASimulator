@@ -2,7 +2,7 @@
 Very simple ALOHA simulator, based on an event driven engine.
 
 
-for all version and precompiled binaries: https://minegrado.info/DWN/pub/all/picalc
+for all version and precompiled binaries: https://minegrado.info/DWN/pub/all/ALOHASimulator
 
 
 #build
